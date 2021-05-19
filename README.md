@@ -1,5 +1,6 @@
-# A-little-web-chat-on-WebSockets 
+A-little-web-chat-on-WebSockets 
 ## If you want starting my project you must do:
+* download python
 * git clone https://github.com/SlavaGolovatskyu/A-little-web-chat-on-WebSockets.git
 * cd A-little-web-chat-on-WebSockets
 * python main.py
